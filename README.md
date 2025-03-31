@@ -1,6 +1,6 @@
 # Hi, I'm Priel Siman-Tov!
 
-<img src="Cute_Science.png" alt="Priel Siman-Tov" width="150" align="left">
+<img src="Cute_Science.png" alt="Priel Siman-Tov" width="150" style="display: block; margin-left: 0;">
 
 I'm a first-year M.Sc. student in Life Sciences at [Weizmann Institue of Science](https://www.weizmann.ac.il/pages/).
 I'm doing my rotations in the following labs:
