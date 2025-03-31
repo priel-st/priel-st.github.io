@@ -1,6 +1,6 @@
 # Hi, I'm Priel Siman-Tov!
 
-I'm a first-year M.Sc. student in Life Sciences at [Weizmann Institue of Sciene](https://www.weizmann.ac.il/pages/).
+I'm a first-year M.Sc. student in Life Sciences at [Weizmann Institue of Science](https://www.weizmann.ac.il/pages/).
 I'm doing my rotations in the following labs:
 
 1. [Elinav Lab](https://www.weizmann.ac.il/immunology/elinav/) - Microbiome
