@@ -11,12 +11,16 @@ I hold a B.Sc. in Biochemistry & Food Science from the [Faculty of Agriculture, 
 
 ## 🔬 First Project
 **The Role of Intestinal Fungi in Liver Diseases**
+
 How does intestinal *Candida Albicans* affect acute liver failure?
 
 ## 🔬 Second Project
 **Assymetric crosstalk between BMP and TGFβ pathways**
+
 Do SMAD proteins contribute to the formation of assymetric crosstalk?
+
 Does the assymetric crosstalk originate from the signaling pathway itself or from a feedback loop?
 
 ## 📧 Contact Me
+
 priel.siman-tov@weizmann.ac.il
